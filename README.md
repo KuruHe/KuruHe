@@ -68,16 +68,13 @@ building    Useful, interactive experiences with modern technology
   <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
 </p>
 
-## GitHub at a glance
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KuruHe&show_icons=true&hide_rank=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&icon_color=8B5CF6&border_color=334155" alt="Karan's GitHub statistics">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuruHe&layout=compact&langs_count=8&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&border_color=334155" alt="Karan's most used languages">
-</p>
+## GitHub activity
 
 <p align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=KuruHe&background=0F172A&border=334155&ring=22D3EE&fire=8B5CF6&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=94A3B8&sideNums=F8FAFC&currStreakNum=F8FAFC" alt="Karan's GitHub contribution streak">
 </p>
+
+<p align="center"><a href="https://github.com/KuruHe?tab=repositories">Browse all repositories →</a></p>
 
 ## Contribution journey
 
