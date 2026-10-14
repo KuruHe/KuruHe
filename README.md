@@ -1,6 +1,6 @@
 # Karan Singh
 
-![Intro](./assets/hero-updated(1).svg?v=1)
+![Intro](./assets/hero.svg?v=1)
 
 ![About](./assets/about-life.svg?v=1)
 
